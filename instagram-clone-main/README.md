@@ -6,7 +6,7 @@ This project is a clone of the [Instagram UI](https://instagram.com). I made it 
 
 The latest update includes some nice new features, such as the gradient border and scroll buttons in stories, and the possibility to add more than one media to the post content, plus, of course, a major overhaul of the UI design!
 
-- **[Live Preview](https://leocosta1.github.io/instagram-clone/)**
+- **[Live Preview](https://1904Shra.github.io/instagram-clone/)**
 
 ## 🤓 Improved Skills
 
@@ -36,6 +36,6 @@ The latest update includes some nice new features, such as the gradient border a
 
 ## ℹ Infos
 
-Made by Leonardo Costa 🙂
+Made by Shraddha Tripathi 🙂
 
 Distributed under the MIT License. See ``LICENSE`` for more information.
