@@ -29,4 +29,4 @@ Open the localhost:3000 address in your favorite browser.
 ℹ Infos
 Made by Shraddha Tripathi 🙂
 
-Distributed under the MIT License. See LICENSE for more information.
+See LICENSE for more information.
